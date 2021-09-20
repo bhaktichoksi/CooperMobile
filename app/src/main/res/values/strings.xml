@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">LocationTask</string>
+
+    <string name="no_internet">No internet connection \n Go to setting and connect to network.</string>
+
+
+    <string name="api_key">YourKey</string>
+    <string name="title_activity_maps">Map</string>
+</resources>
